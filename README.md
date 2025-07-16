@@ -1,1 +1,2 @@
 # nyt-top100-movies
+This repo exists so that my friend and I have a calendar invite for the first Sunday of every month to watch a movie off of the NYT top 100 films list, so that we both don't seem uncultured!
