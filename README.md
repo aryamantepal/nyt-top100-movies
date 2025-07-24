@@ -187,10 +187,6 @@ The script includes automatic delays to prevent rate limiting, but if you encoun
 4. Push to branch: `git push origin feature-name`
 5. Submit a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Film list based on The New York Times' "The 25 Best Films of the 21st Century" and expanded with other critically acclaimed films
